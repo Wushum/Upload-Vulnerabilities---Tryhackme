@@ -1,0 +1,9 @@
+Start the Machine
+
+Linux Users run the command below:
+echo "MACHINE_IP    overwrite.uploadvulns.thm shell.uploadvulns.thm java.uploadvulns.thm annex.uploadvulns.thm magic.uploadvulns.thm jewel.uploadvulns.thm" | sudo tee -a /etc/hosts
+
+Read Introduction & General Methodology
+
+
+Task 4 Overwriting Existing Files:
